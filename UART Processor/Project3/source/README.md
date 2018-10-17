@@ -1,5 +1,5 @@
-# Receive Engine Project Contents
-The contents below are new files introduced when implementing the receive engine.</br>
+# Receive Engine/UART Processor Project Contents
+The contents below are new files introduced when implementing the receive engine and integrating the designing into the UART Processor.</br>
 Project Contents:</br>
 RX.v - The design of the receive engine.</br>
 RX_TB.v - A testbench for ensure the behavior of the receive engine is correct.</br>
