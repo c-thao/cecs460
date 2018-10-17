@@ -1,2 +1,2 @@
-# TSI
-This fifth project introduces the concept of a Technology Specific Instantiation (TSI). In this project instantiations of I/O buffers of the target technology, Spartan 6, were created in a separate TSI file removing the overhead introduced by allowing xilinx to compensate and create the I/O buffers itself.
+# MIB
+This fifth project introduces the concept of a memory interface bus (MIB). This final project was both optional and extra credit, due to it being a project during finals week, I was not able to work on it. So this project folder is empty.
