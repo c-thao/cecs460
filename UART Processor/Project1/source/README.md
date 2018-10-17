@@ -5,3 +5,4 @@ db_fsm.v - A debounce finite state machine which ensures the stabalization of an
 pulse_maker.v - A edge detector which sends a one clock wide output when the detection of an input goes high.</br>
 dec.v - A decoder which determines which address to write/read to.</br>
 sev_seg_fsm.v - A finite state machine to handle the logic of displaying a hexadecimal number onto a seven segment display.</br>
+TB_tramelblaze.v - A testbench to ensure the functionality and behavior of the 16-bit counter is working.
