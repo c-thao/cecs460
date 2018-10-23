@@ -1,4 +1,5 @@
-# Transmit Engine Project contents
+# Transmit Engine
+## Project contents
 To deviate from the first project this will only cover new files introduced with designing the transmit engine.</br>
 Project Contents:</br>
 TX.v - The transmit engine implementation.</br>
